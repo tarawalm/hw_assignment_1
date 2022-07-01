@@ -1,3 +1,1 @@
-# hw_assignment_1
-
-## Notes on FinTech Domain and specific company you are researching
+I'm testing this to see if these updates will be added to the Repository
