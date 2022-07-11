@@ -31,10 +31,11 @@ Coinbase stared out as a platform to give the everyday consumer a means to secur
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Coinbase's intended customer is the everyday consumer. The goal was basically to make crypto accessible to anyone anywhere. The company grew to 1 million user by 2014 and has since become one of the industry leaders in crypto curreny trades. There are not 98+ Million users of the platform and 
+Coinbase's intended customer is the everyday consumer. The goal was basically to make crypto accessible to anyone anywhere. The company grew to 1 million user by 2014 and has since become one of the industry leaders in crypto curreny trades. There are now 98+ Million users of the platform, working with 13,000 institutions and 230,000 partners in over 100 countries.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+Coinbase utilizes a technology called Web 3.0 which is modern form of a decentrailized block train system which allows for their users to access the blockchain to manage their financial assets. Coinbase has a Wallet service which uses Web 3.0 as a means for the end user to access their platform. Coinbase also utilizes AWS (Amazon Web Sercies) and IAM (Identiy Access Management and other Amazon based cloud computing services to over their technological needs. Lastly Coinbase has put in place their Coinbase Pro API system which is their trusted crypto exchange technology. Coinbase offers this API to other developers as a means to build on thier existing platforms.
 
 ## Landscape:
 
